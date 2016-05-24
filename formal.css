@@ -2,7 +2,7 @@
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
 
-body {
+body .container {
   font-family: 'Merriweather', Georgia, serif;
   font-size: 100%;
   margin: 0;
